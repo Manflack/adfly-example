@@ -8,6 +8,7 @@ public class LinkDTO
     private String url;
     private String id;
     private Integer visitas;
+    private String password;
 
     public LinkDTO()
     {
